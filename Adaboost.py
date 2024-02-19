@@ -1,6 +1,3 @@
-### I pledge my honor that I have abided by the Stevens Honor System
-### Hw3 - Eric  Yang
-
 import numpy as np
 import math
 from pandas import read_csv
